@@ -2,3 +2,5 @@
 **/.ipynb_checkpoints
 .DS_Store
 99 Quantum/*
+90 Hackathon 2.0/train/*
+90 Hackathon 2.0/test/*
